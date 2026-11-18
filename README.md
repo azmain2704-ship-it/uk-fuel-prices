@@ -1,5 +1,7 @@
 # UK fuel prices, 2018 to 2026
 
+[![notebook](https://github.com/azmain2704-ship-it/uk-fuel-prices/actions/workflows/notebook.yml/badge.svg)](https://github.com/azmain2704-ship-it/uk-fuel-prices/actions/workflows/notebook.yml)
+
 I wanted a data project using real numbers, so I took the government's weekly UK pump prices (464 weeks, January 2018 to November 2026) and tried to answer three questions with pandas.
 
 ![UK pump prices 2018 to 2026](charts/1_prices_over_time.png)
